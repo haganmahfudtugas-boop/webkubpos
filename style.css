@@ -1,4 +1,7 @@
-body
-{
+body{
  background-color:#00FFFF;
+ color:#333;
+ width:100%;
+ font-family:sans-serif;
+ margin:0 auto;
 }
